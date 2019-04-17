@@ -1,1 +1,9 @@
-export const PIC_1
+export const PIC_1="https://via.placeholder.com/140x100"
+export const PIC_2="https://via.placeholder.com/140x100"
+export const PIC_3="https://via.placeholder.com/140x100"
+export const PIC_4="https://via.placeholder.com/140x100"
+export const PIC_5="https://via.placeholder.com/140x100"
+export const PIC_6="https://via.placeholder.com/140x100"
+export const PIC_7="https://via.placeholder.com/140x100"
+export const PIC_8="https://via.placeholder.com/140x100"
+export const PIC_9="https://via.placeholder.com/140x100"
