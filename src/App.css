@@ -2,12 +2,29 @@
   text-align: center;
 }
 
-.grid {
+.Banner{
+  background-color: aliceblue;
+}
+
+.grid1 {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns:  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  background-color: aliceblue;
+  height: 70px;
+  text-align: center;
+  color: black;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-columns:  1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   background-color: aliceblue;
   height: 650px;
   text-align: center;
   color: black;
+}
+
+.side{
+  grid-row: 1/4;
 }

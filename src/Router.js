@@ -20,6 +20,7 @@ class Routing extends Component {
                    <div><img src={Constants.PIC_1}/></div>
                    <div><NavLink to={Constants.GAME_PATH_1}>Game 1</NavLink></div>
                    
+                   
                 </div>
                <div className="gridsquare">
                    <div><img src={Constants.PIC_2}/></div>
@@ -54,6 +55,7 @@ class Routing extends Component {
                    <div><NavLink to={Constants.GAME_PATH_9}>Game 9</NavLink></div>
                 </div>
                 <div><Route exact path={Constants.GAME_PATH_1} component={Game1}/></div>
+                
                               
             </Router>
         )
