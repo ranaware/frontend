@@ -4,7 +4,9 @@ import './App.css';
 class Game1 extends Component {
   render() {
     return (
-        <p>Ranaware Game Site</p>
+       <a>
+
+        </a>
       
     );
   }
