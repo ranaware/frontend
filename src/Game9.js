@@ -1,17 +1,13 @@
 import React, { Component } from 'react';
 import './App.css';
 
-class Game1 extends Component {
+class Game9 extends Component {
   render() {
     return (
-
-       <a>
-
-        </a>
-
+        <p>Ranaware Game Site</p>
       
     );
   }
 }
 // Rename later
-export default Game1;
+export default Game9;
