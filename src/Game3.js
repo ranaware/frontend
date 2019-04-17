@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import './App.css';
 
-class Game1 extends Component {
+class Game3 extends Component {
   render() {
     return (
-        <p>Ranaware Game Site 1</p>
+        <p>Ranaware Game Site</p>
       
     );
   }
 }
 // Rename later
-export default Game1;
+export default Game3;
