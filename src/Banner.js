@@ -4,7 +4,7 @@ import './App.css';
 class Banner extends Component {
   render() {
     return (
-        <p>Ranaware Game Site</p>
+        <h1>RANAWARE</h1>
       
     );
   }
