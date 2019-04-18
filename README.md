@@ -1,3 +1,11 @@
+Set up on a normal AWS EC2 server with just the basic load balancers, security groups and elastic IP.
+
+Once on the VM, cloned down the repo and ran docker build followed by docker run on port 3000.
+
+Ran through the IP of the VM.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
