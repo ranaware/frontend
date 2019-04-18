@@ -1,15 +1,16 @@
 .App {
   text-align: center;
+  background-color: rgba(0, 0, 40, 150);
 }
 
-.Banner{
-  background-color: aliceblue;
-}
+/* .Banner{
+  background-color: bisque;
+} */
 
 .grid1 {
   display: grid;
   grid-template-columns:  1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  background-color: aliceblue;
+  /* background-color: aliceblue; */
   height: 70px;
   text-align: center;
   color: black;
@@ -17,14 +18,28 @@
 
 .grid2 {
   display: grid;
-  grid-template-columns:  1fr 1fr 1fr;
+  grid-template-columns:  1fr 0.5fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  background-color: aliceblue;
-  height: 650px;
+  /* background-color: aliceblue; */
+  height: 600px;
   text-align: center;
   color: black;
 }
 
 .side{
   grid-row: 1/4;
+}
+
+h1 {
+  color: azure;
+  font-family: './StalinistOne-Regular.tff', monospace;
+  font-size: 300%;
+}
+
+p {
+  color: azure;
+}
+
+Button {
+  
 }
