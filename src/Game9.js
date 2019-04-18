@@ -4,7 +4,7 @@ import './App.css';
 class Game9 extends Component {
   render() {
     return (
-        <iframe src="https://mk.mgechev.com/" width="540" height="450"></iframe>
+        <iframe src="https://mk.mgechev.com/" width="740" height="650"></iframe>
       
     );
   }

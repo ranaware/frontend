@@ -18,39 +18,39 @@ class Home extends Component {
             <Router>
                 <div className="grid2">
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_1} width="200" height="200"/></div>
                         <div>Game 1</div>
                     </div>
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_2} width="200" height="200"/></div>
                         <div>Game 2</div>
                     </div>
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_3} width="200" height="200"/></div>
                         <div>Game 3</div>
                     </div>
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_4} width="200" height="200"/></div>
                         <div>Game 4</div>
                     </div>
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_5} width="200" height="200"/></div>
                         <div>Game 5</div>
                     </div>
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_6} width="200" height="200"/></div>
                         <div>Game 6</div>
                     </div>
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_7} width="200" height="200"/></div>
                         <div>Game 7</div>
                     </div>
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_8} width="200" height="200"/></div>
                         <div>Game 8</div>
                     </div>
                     <div className="gridsquare">
-                        <div><img src={Constants.PIC_1} /></div>
+                        <div><img src={Constants.PIC_9} width="200" height="200"/></div>
                         <div>Game 9</div>
                     </div>
                 </div>

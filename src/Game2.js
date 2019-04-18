@@ -4,7 +4,7 @@ import './App.css';
 class Game2 extends Component {
   render() {
     return (
-        <iframe src="https://play2048.co/" width="540" height="450"></iframe>
+        <iframe src="https://play2048.co/" width="540" height="540"></iframe>
       
     );
   }
