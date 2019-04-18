@@ -4,7 +4,7 @@ import './App.css';
 class Game4 extends Component {
   render() {
     return (
-        <p>Ranaware Game Site</p>
+        <iframe src="http://browserquest.mozilla.org/" width="540" height="450"></iframe>
       
     );
   }

@@ -4,7 +4,7 @@ import './App.css';
 class Game6 extends Component {
   render() {
     return (
-        <p>Ranaware Game Site</p>
+        <iframe src="http://strykerkkd.github.io/SpaceInvaders/" width="540" height="450"></iframe>
       
     );
   }

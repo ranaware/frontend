@@ -4,7 +4,7 @@ import './App.css';
 class Game8 extends Component {
   render() {
     return (
-        <p>Ranaware Game Site</p>
+        <iframe src="https://duckhuntjs.com/" width="540" height="450"></iframe>
       
     );
   }
