@@ -5,9 +5,7 @@ class Game1 extends Component {
   render() {
     return (
 
-       <a>
-
-        </a>
+       <iframe src="https://sparticle999.github.io/SpaceCompany/" width="540" height="450"></iframe>
 
       
     );

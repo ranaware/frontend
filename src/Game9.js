@@ -4,7 +4,7 @@ import './App.css';
 class Game9 extends Component {
   render() {
     return (
-        <p>Ranaware Game Site</p>
+        <iframe src="https://mk.mgechev.com/" width="740" height="650"></iframe>
       
     );
   }
